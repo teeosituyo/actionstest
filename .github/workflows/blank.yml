@@ -1,8 +1,8 @@
 name: shell commands
 
 on: 
-  -push
-  -PR
+  - push
+  
 
 jobs:
   run-shell-commands:
